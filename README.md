@@ -40,7 +40,7 @@ Users should be able to:
 
 ### What I learned
 
-Basically, this project was to test and practice my React knowledge.  I used React Router v6.
+Basically, this project was to test and practice my React knowledge. I used React Router v6. I also created a custom reusable `useFetch` hook to fetch data.
 
 With this project, I finally encountered a use case for the CSS grid `auto-fill` property. This was useful when a users search result contained a small number of countries. The `auto-fill` ensured that the search results did not take up all available space but instead implicit grid items filled up the space. 
 
