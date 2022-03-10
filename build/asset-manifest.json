@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/restcountries/static/css/main.655dc26f.css",
+    "main.js": "/restcountries/static/js/main.2ce664dc.js",
+    "static/media/ReadexPro-Bold.ttf": "/restcountries/static/media/ReadexPro-Bold.968b4c034ebaefce43d5.ttf",
+    "static/media/ReadexPro-Light.ttf": "/restcountries/static/media/ReadexPro-Light.d5b5702853eb723e20f2.ttf",
+    "static/media/ReadexPro-Regular.ttf": "/restcountries/static/media/ReadexPro-Regular.452096e0fc6c44651530.ttf",
+    "index.html": "/restcountries/index.html",
+    "main.655dc26f.css.map": "/restcountries/static/css/main.655dc26f.css.map",
+    "main.2ce664dc.js.map": "/restcountries/static/js/main.2ce664dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.655dc26f.css",
+    "static/js/main.2ce664dc.js"
+  ]
+}
