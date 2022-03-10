@@ -3,7 +3,7 @@ import useFetch from "./useFetch";
 import Header from './components/header';
 import CountryDetails from './pages/countryDetails';
 import { useState } from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouteR as Router, Routes, Route } from 'react-router-dom';
 
 function App() {
   const [ theme, setTheme ] = useState('light');
